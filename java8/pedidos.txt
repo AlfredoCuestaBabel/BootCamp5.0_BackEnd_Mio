@@ -1,0 +1,12 @@
+pizza|2|7.9|alimentación|2018-10-20
+yogures|4|1.2|alimentación|2019-09-11
+raqueta|3|30.8|deportes|2020-01-11
+móvil|2|167|electrónica|2018-01-26
+televisor|3|450|electrónica|2018-07-02
+Java básico|5|20.5|libros|2019-09-15
+galletas|10|2.3|alimentación|2019-12-26
+balón|2|15.8|deportes|2019-11-12
+zapatillas|3|56|deportes|2018-04-25
+galletas|5|2.3|alimentación|2018-05-10
+móvil|6|167|electrónica|2020-01-14
+bañador|4|22|deportes|2019-04-03
