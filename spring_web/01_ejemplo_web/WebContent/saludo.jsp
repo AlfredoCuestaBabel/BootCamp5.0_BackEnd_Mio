@@ -1,15 +1,15 @@
-<%@ page language="java" contentType="text/html; charset=UTF-8"
-    pageEncoding="UTF-8"%>
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="UTF-8">
-<title>Bienvenido a JSP</title>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
 </head>
 <body>
 	<center>
-		<%for(int i=0; i<6;i++){ %>
-		<h<%=i %>> Bienvenido a JSP </h<%=i %>>
+		<%for(int i=1;i<=6;i++){ %>
+			<h<%=i%>>Bienvenido a JSP </h<%=i%>>
 		<%} %>
 	</center>
 </body>
